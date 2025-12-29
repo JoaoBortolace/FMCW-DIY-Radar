@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Radar.PrjPcb]
+   Generated File[Radar_Digital-RoundHoles-Plated.TXT]
+   Generated File[Radar_Digital-RoundHoles-NonPlated.TXT]
+   Generated File[Radar_Digital-SlotHoles-Plated.TXT]
+   Generated File[Radar_Digital.LDP]
+   Generated File[Radar_Digital.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 22:10:29 On 28/12/2025

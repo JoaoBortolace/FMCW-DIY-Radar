@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Radar_Digital.PcbDoc   28/12/2025  22:10:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 (SIG) to L4  (SIG+PWR)
+ASCII Plated RoundHoles File : Radar_Digital-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Radar_Digital-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Radar_Digital-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             289       PTH        41.42inch (1052.07mm)
+T2      32mil (0.8mm)                                             Slot              4         PTH        1.45inch (36.72mm)
+T3      40mil (1.02mm)                                            Round             20        PTH        7.93inch (201.34mm)
+T4      43mil (1.1mm)                                             Round             15        PTH        1.40inch (35.56mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        7.61inch (193.40mm)
+T6      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              334
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Radar\Radar_Digital.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=radar_digital-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=radar_digital-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=radar_digital-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
