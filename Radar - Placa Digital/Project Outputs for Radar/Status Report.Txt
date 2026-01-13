@@ -1,14 +1,26 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Radar.PrjPcb]
-   Generated File[Radar_Digital-RoundHoles-Plated.TXT]
-   Generated File[Radar_Digital-RoundHoles-NonPlated.TXT]
-   Generated File[Radar_Digital-SlotHoles-Plated.TXT]
-   Generated File[Radar_Digital.LDP]
-   Generated File[Radar_Digital.DRR]
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Radar.PrjPcb]
+   Generated File[Radar_Digital_Copper_Signal_Top.gbr]
+   Generated File[Radar_Digital_Copper_Signal_1.gbr]
+   Generated File[Radar_Digital_Copper_Signal_2.gbr]
+   Generated File[Radar_Digital_Copper_Signal_Bot.gbr]
+   Generated File[Radar_Digital_Pads_Bot.gbr]
+   Generated File[Radar_Digital_Pads_Top.gbr]
+   Generated File[Radar_Digital_Legend_Top.gbr]
+   Generated File[Radar_Digital_Legend_Bot.gbr]
+   Generated File[Radar_Digital_Soldermask_Top.gbr]
+   Generated File[Radar_Digital_Soldermask_Bot.gbr]
+   Generated File[Radar_Digital_Paste_Top.gbr]
+   Generated File[Radar_Digital_Paste_Bot.gbr]
+   Generated File[Radar_Digital_Profile.gbr]
+   Generated File[Radar_Digital_NPTH_Drill.gbr]
+   Generated File[Radar_Digital_PTH_Drill.gbr]
+   Generated File[Radar_Digital.EXTREP]
+   Generated File[Radar_Digital.REP]
 
 
-Files Generated   : 5
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 22:10:29 On 28/12/2025
+Finished Output Generation At 10:00:27 On 13/01/2026
