@@ -24,7 +24,7 @@ Para este radar FMCW o objetivo é projetar um radar operando na faixa SHF na Ba
 
 # Projeto
 
-# Placa Digital
+# [Placa Digital]([URL](https://365.altium.com/files/D23D9574-CF08-4959-81D4-2C4755ACD176))
 
 A placa digital contém os circuitos digitais e de banda base do radar. O microcontrolador, conversores A/D e D/A, filtros, conexão e alimentação.
 
